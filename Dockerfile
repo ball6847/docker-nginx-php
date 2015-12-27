@@ -27,6 +27,7 @@ RUN \
     php70-php-mbstring \
     php70-php-mcrypt \
     php70-php-mysqlnd \
+    php70-php-pgsql \
     php70-php-opcache \
     php70-php-pdo \
     php70-php-pear \
